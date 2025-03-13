@@ -2,23 +2,11 @@
 
 ## Overview
 
-TODO: Write a project description
+A fun little project demonstrating the power of a little JS, and some TLC (tender loving care).
+This is a little game where there are balls bouncing around and you, the user, have control of one
+hollow circle called the Evil Circle, and by using w,a,s, and d, you can move the evil circle and
+eat the other circles.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Query selector docs (kind of... from W3) --> https://www.w3schools.com/jsref/met_document_queryselector.asp
